@@ -23,13 +23,17 @@ h1 {
     height: auto;
     padding-top: 7px;
 }
+#elipsis {
+    width: 10px;
+    padding-top: 15px;
+    padding-left: 450px;
+}
 #photo {
     width: 600px;
     height: auto;
 }
 #icons {
     display: flex;
-    width: 600px;
     justify-content: space-between;
 }
 span {
